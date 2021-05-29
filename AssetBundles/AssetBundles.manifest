@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1257479102
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cena teste
+      Dependencies: {}
+    Info_1:
+      Name: testano
+      Dependencies: {}
+    Info_2:
+      Name: carro
+      Dependencies: {}
