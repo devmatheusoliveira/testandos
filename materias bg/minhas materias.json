@@ -2,31 +2,26 @@
     {
         "id": 1,
         "name": "Matemática",
-        "icon": "link"
+        "icon": "https://raw.githubusercontent.com/matheusOliveira99/testandos/main/materias%20bg/matematica.png"
     },
     {
         "id": 2,
         "name": "Biologia",
-        "icon": "link"
+        "icon": "https://raw.githubusercontent.com/matheusOliveira99/testandos/main/materias%20bg/biologia.png"
     },
     {
         "id": 3,
         "name": "Física",
-        "icon": "link"
+        "icon": "https://raw.githubusercontent.com/matheusOliveira99/testandos/main/materias%20bg/fisica.png"
     },
     {
         "id": 4,
         "name": "Química",
-        "icon": "link"
+        "icon": "https://raw.githubusercontent.com/matheusOliveira99/testandos/main/materias%20bg/quimica.png"
     },
     {
         "id": 5,
-        "name": "Filosofia",
-        "icon": "link"
-    },
-    {
-        "id": 6,
         "name": "Linguagens",
-        "icon": "link"
+        "icon": "https://raw.githubusercontent.com/matheusOliveira99/testandos/main/materias%20bg/linguagens.png"
     }
 ]
