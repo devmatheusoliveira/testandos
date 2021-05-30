@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3804415901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d06285998847ba37d5300d8ce315a5ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5de417ad2fecd8aa6154b9a9174c76c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scripts/ciclo da agua/ciclo da agua.prefab
+Dependencies: []
