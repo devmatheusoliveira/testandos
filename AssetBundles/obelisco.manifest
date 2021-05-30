@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3457931326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f22fa901fb4a45c61d2c36af7f9f246b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ee20bb3826aae86c840c5949981e108
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d63c8c31104362542a69c8201d8c507c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/obelisco.prefab
+Dependencies: []
