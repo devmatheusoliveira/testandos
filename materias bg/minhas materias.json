@@ -23,5 +23,10 @@
         "id": 5,
         "name": "Linguagens",
         "icon": "https://raw.githubusercontent.com/matheusOliveira99/testandos/main/materias%20bg/linguagens.png"
+    },
+    {
+        "id": 6,
+        "name": "Geografia",
+        "icon": "https://raw.githubusercontent.com/matheusOliveira99/testandos/main/materias%20bg/linguagens.png"
     }
 ]
